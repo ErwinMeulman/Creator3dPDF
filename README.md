@@ -26,3 +26,5 @@ Essential parameters:\
 Sample:\
 \
 creator3dpdf.exe -u3dPath sample.u3d -pdfPath sample.pdf -pgW 21.0 -pgH 29.7
+
+creator3dpdf.exe -u3dPath %1 -pdfPath %1.pdf
