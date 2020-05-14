@@ -1,9 +1,9 @@
 # Creator3dPDF
 
-Essential parameters:
-    -pdfPath,       Location of output pdf-file
-    -u3dPath,       Location of input u3d-file
-    -viewName,      The name of view
+Essential parameters:/
+    -pdfPath,       Location of output pdf-file/
+    -u3dPath,       Location of input u3d-file/
+    -viewName,      The name of view/
     -viewSchema,    Schema of view
     -projType,      The type of projection
     -cooX,          Center of orbit coordinates - Ordinate X
